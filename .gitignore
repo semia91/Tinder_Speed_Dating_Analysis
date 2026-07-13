@@ -1,15 +1,10 @@
-# Python
+# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-.venv/
-venv/
-env/
+*.pyc
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-# OS
+# Operating system files
 .DS_Store
 Thumbs.db
